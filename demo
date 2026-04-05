@@ -1,0 +1,6 @@
+cd d:\Hackathon\WWW6.5-Hackathon\学会儿嬉LearnStream
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/your-username/learnstream-demo.git
+git push -u origin main
